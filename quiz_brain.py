@@ -28,5 +28,3 @@ class QuizBrain:
         else:
             return False
 
-        # print(f"Your current score is: {self.score}/{self.question_number}")
-        # print("\n")
